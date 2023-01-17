@@ -8,6 +8,9 @@ public class IfStatement {
      * Let's make an if statement that does the following:
      * if bool is true, return x.
      * if bool is false, return y.
+     * 
+     * All variables needed to solve the problem are provided by the method parameters - boolean bool, int x, int y.
+     * This means that you can use the variables bool, x, and y freely, within the if statement, to solve the problem.
      *
      * Additional Resource if needed: https://www.w3schools.com/java/java_conditions.asp
      *
