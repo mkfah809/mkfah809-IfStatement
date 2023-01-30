@@ -1,5 +1,5 @@
 
-public class IfStatement {
+public class Lab {
     /**
      * An if statement uses a conditional statement (within parentheses) to determine if the code
      * within {curly braces} should run.

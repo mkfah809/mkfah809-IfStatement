@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class IfStatementTest {
-    static IfStatement is;
+    static Lab is;
     @BeforeClass
     public static void setUp(){
-        is = new IfStatement();
+        is = new Lab();
     }
 
     /**
